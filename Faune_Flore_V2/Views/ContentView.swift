@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  Faune_Flore_V2
+//  Faune_Flore
 //
-//  Created by Travail on 20/10/2023.
+//  Created by Travail on 19/10/2023.
 //
 
 import SwiftUI
@@ -20,5 +20,6 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    NavigationView{
+    ContentView()}
 }
